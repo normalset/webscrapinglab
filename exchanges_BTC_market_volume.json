@@ -1,0 +1,502 @@
+{
+    "bybit_spot": {
+        "name": "Bybit",
+        "market_volume_btc": 86585.30293954832,
+        "date": "2024-03-07"
+    },
+    "gdax": {
+        "name": "Coinbase Exchange",
+        "market_volume_btc": 85554.34203345668,
+        "date": "2024-03-07"
+    },
+    "okex": {
+        "name": "OKX",
+        "market_volume_btc": 74450.60395606256,
+        "date": "2024-03-07"
+    },
+    "kucoin": {
+        "name": "KuCoin",
+        "market_volume_btc": 41952.292523156626,
+        "date": "2024-03-07"
+    },
+    "huobi": {
+        "name": "HTX",
+        "market_volume_btc": 38412.364256511,
+        "date": "2024-03-07"
+    },
+    "gate": {
+        "name": "Gate.io",
+        "market_volume_btc": 31319.927937749617,
+        "date": "2024-03-07"
+    },
+    "kraken": {
+        "name": "Kraken",
+        "market_volume_btc": 27061.014018689384,
+        "date": "2024-03-07"
+    },
+    "crypto_com": {
+        "name": "Crypto.com Exchange",
+        "market_volume_btc": 23510.06434286682,
+        "date": "2024-03-07"
+    },
+    "bitstamp": {
+        "name": "Bitstamp",
+        "market_volume_btc": 7538.087821683883,
+        "date": "2024-03-07"
+    },
+    "bitfinex": {
+        "name": "Bitfinex",
+        "market_volume_btc": 5611.616889603716,
+        "date": "2024-03-07"
+    },
+    "binance_us": {
+        "name": "Binance US",
+        "market_volume_btc": 758.3302483050253,
+        "date": "2024-03-07"
+    },
+    "hashkey_exchange": {
+        "name": "HashKey Exchange",
+        "market_volume_btc": 489.3668374403768,
+        "date": "2024-03-07"
+    },
+    "binance": {
+        "name": "Binance",
+        "market_volume_btc": 616279.7420751174,
+        "date": "2024-03-07"
+    },
+    "bingx": {
+        "name": "BingX",
+        "market_volume_btc": 29940.78855106401,
+        "date": "2024-03-07"
+    },
+    "bitget": {
+        "name": "Bitget",
+        "market_volume_btc": 22325.321816607076,
+        "date": "2024-03-07"
+    },
+    "tapbit": {
+        "name": "Tapbit",
+        "market_volume_btc": 14908.912860269636,
+        "date": "2024-03-07"
+    },
+    "fastex": {
+        "name": "Fastex",
+        "market_volume_btc": 4880.579347024294,
+        "date": "2024-03-07"
+    },
+    "gemini": {
+        "name": "Gemini",
+        "market_volume_btc": 1815.693657604332,
+        "date": "2024-03-07"
+    },
+    "wootrade": {
+        "name": "WOO X",
+        "market_volume_btc": 1340.2855034373463,
+        "date": "2024-03-07"
+    },
+    "bitso": {
+        "name": "Bitso",
+        "market_volume_btc": 888.0591805705392,
+        "date": "2024-03-07"
+    },
+    "coinspro": {
+        "name": "Coins.ph",
+        "market_volume_btc": 167.7381111914052,
+        "date": "2024-03-07"
+    },
+    "digifinex": {
+        "name": "DigiFinex",
+        "market_volume_btc": 44108.07616090323,
+        "date": "2024-03-07"
+    },
+    "upbit": {
+        "name": "Upbit",
+        "market_volume_btc": 110286.3778961967,
+        "date": "2024-03-07"
+    },
+    "bitmart": {
+        "name": "BitMart",
+        "market_volume_btc": 37539.81425975231,
+        "date": "2024-03-07"
+    },
+    "bitrue": {
+        "name": "Bitrue",
+        "market_volume_btc": 66393.43252308306,
+        "date": "2024-03-07"
+    },
+    "whitebit": {
+        "name": "WhiteBIT",
+        "market_volume_btc": 29853.501438983927,
+        "date": "2024-03-07"
+    },
+    "bitvenus_spot": {
+        "name": "BitVenus",
+        "market_volume_btc": 18265.540757062838,
+        "date": "2024-03-07"
+    },
+    "deepcoin": {
+        "name": "Deepcoin",
+        "market_volume_btc": 25539.730761436713,
+        "date": "2024-03-07"
+    },
+    "coinw": {
+        "name": "CoinW",
+        "market_volume_btc": 16726.5326876334,
+        "date": "2024-03-07"
+    },
+    "xt": {
+        "name": "XT.COM",
+        "market_volume_btc": 15863.859044176414,
+        "date": "2024-03-07"
+    },
+    "latoken": {
+        "name": "LATOKEN",
+        "market_volume_btc": 13274.216525684224,
+        "date": "2024-03-07"
+    },
+    "biconomy": {
+        "name": "Biconomy",
+        "market_volume_btc": 12810.806199028122,
+        "date": "2024-03-07"
+    },
+    "bigone": {
+        "name": "BigONE",
+        "market_volume_btc": 10702.98646527915,
+        "date": "2024-03-07"
+    },
+    "btse": {
+        "name": "BTSE",
+        "market_volume_btc": 10952.016000260775,
+        "date": "2024-03-07"
+    },
+    "citex": {
+        "name": "CITEX",
+        "market_volume_btc": 14582.827001399386,
+        "date": "2024-03-07"
+    },
+    "pointpay": {
+        "name": "PointPay",
+        "market_volume_btc": 4746.689255781996,
+        "date": "2024-03-07"
+    },
+    "phemex": {
+        "name": "Phemex",
+        "market_volume_btc": 3808.3642135574996,
+        "date": "2024-03-07"
+    },
+    "bitmax": {
+        "name": "AscendEX (BitMax)",
+        "market_volume_btc": 3283.072898386276,
+        "date": "2024-03-07"
+    },
+    "azbit": {
+        "name": "Azbit",
+        "market_volume_btc": 3008.358293063591,
+        "date": "2024-03-07"
+    },
+    "exmo": {
+        "name": "EXMO",
+        "market_volume_btc": 1754.6710934315274,
+        "date": "2024-03-07"
+    },
+    "coinex": {
+        "name": "CoinEx",
+        "market_volume_btc": 1667.4902245308306,
+        "date": "2024-03-07"
+    },
+    "bitkub": {
+        "name": "Bitkub",
+        "market_volume_btc": 1642.7682131782049,
+        "date": "2024-03-07"
+    },
+    "bitcastle": {
+        "name": "bitcastle",
+        "market_volume_btc": 5029.8960429573,
+        "date": "2024-03-07"
+    },
+    "bitbank": {
+        "name": "Bitbank",
+        "market_volume_btc": 1020.0975880600749,
+        "date": "2024-03-07"
+    },
+    "indodax": {
+        "name": "Indodax",
+        "market_volume_btc": 589.4248302342656,
+        "date": "2024-03-07"
+    },
+    "bitopro": {
+        "name": "BitoPro",
+        "market_volume_btc": 392.7657853833648,
+        "date": "2024-03-07"
+    },
+    "luno": {
+        "name": "Luno",
+        "market_volume_btc": 335.205515877697,
+        "date": "2024-03-07"
+    },
+    "xeggex": {
+        "name": "XeggeX",
+        "market_volume_btc": 90.735606970809,
+        "date": "2024-03-07"
+    },
+    "nice_hash": {
+        "name": "NiceHash",
+        "market_volume_btc": 13.933584837207462,
+        "date": "2024-03-07"
+    },
+    "okcoin": {
+        "name": "Okcoin",
+        "market_volume_btc": 0.593379695246191,
+        "date": "2024-03-07"
+    },
+    "lbank": {
+        "name": "LBank",
+        "market_volume_btc": 37331.818040975355,
+        "date": "2024-03-07"
+    },
+    "mxc": {
+        "name": "MEXC",
+        "market_volume_btc": 24248.006556876313,
+        "date": "2024-03-07"
+    },
+    "p2pb2b": {
+        "name": "P2B",
+        "market_volume_btc": 41272.97469774252,
+        "date": "2024-03-07"
+    },
+    "pionex": {
+        "name": "Pionex",
+        "market_volume_btc": 25773.496838532745,
+        "date": "2024-03-07"
+    },
+    "bithumb": {
+        "name": "Bithumb",
+        "market_volume_btc": 19031.96007399441,
+        "date": "2024-03-07"
+    },
+    "bitvavo": {
+        "name": "Bitvavo",
+        "market_volume_btc": 9811.166608860707,
+        "date": "2024-03-07"
+    },
+    "bydfi": {
+        "name": "BYDFi",
+        "market_volume_btc": 4933.883151285641,
+        "date": "2024-03-07"
+    },
+    "probit": {
+        "name": "ProBit Global",
+        "market_volume_btc": 2791.1595576691197,
+        "date": "2024-03-07"
+    },
+    "bitdelta": {
+        "name": "BitDelta",
+        "market_volume_btc": 2509.894264630972,
+        "date": "2024-03-07"
+    },
+    "bitflyer": {
+        "name": "bitFlyer",
+        "market_volume_btc": 2265.1437671480444,
+        "date": "2024-03-07"
+    },
+    "coincheck": {
+        "name": "Coincheck",
+        "market_volume_btc": 1836.7258123536064,
+        "date": "2024-03-07"
+    },
+    "c_patex": {
+        "name": "C-Patex",
+        "market_volume_btc": 1534.069396561132,
+        "date": "2024-03-07"
+    },
+    "dextrade": {
+        "name": "Dex-Trade",
+        "market_volume_btc": 1277.7475150006796,
+        "date": "2024-03-07"
+    },
+    "catex": {
+        "name": "Catex",
+        "market_volume_btc": 1282.6436830703963,
+        "date": "2024-03-07"
+    },
+    "max_maicoin": {
+        "name": "Max Maicoin",
+        "market_volume_btc": 728.7681234433,
+        "date": "2024-03-07"
+    },
+    "bullish_com": {
+        "name": "Bullish",
+        "market_volume_btc": 28300.40261268221,
+        "date": "2024-03-07"
+    },
+    "bitexen": {
+        "name": "Bitexen",
+        "market_volume_btc": 418.3293762878974,
+        "date": "2024-03-07"
+    },
+    "bitazza": {
+        "name": "Bitazza",
+        "market_volume_btc": 336.38972757551585,
+        "date": "2024-03-07"
+    },
+    "valr": {
+        "name": "VALR",
+        "market_volume_btc": 288.3750101294546,
+        "date": "2024-03-07"
+    },
+    "cex": {
+        "name": "CEX.IO",
+        "market_volume_btc": 233.00152586423647,
+        "date": "2024-03-07"
+    },
+    "coindcx": {
+        "name": "CoinDCX",
+        "market_volume_btc": 128.53463046549373,
+        "date": "2024-03-07"
+    },
+    "coin_metro": {
+        "name": "Coinmetro",
+        "market_volume_btc": 45.2122430319598,
+        "date": "2024-03-07"
+    },
+    "kuna": {
+        "name": "Kuna Exchange",
+        "market_volume_btc": 34.49106142658553,
+        "date": "2024-03-07"
+    },
+    "stormgain": {
+        "name": "Stormgain",
+        "market_volume_btc": 17.024361819350805,
+        "date": "2024-03-07"
+    },
+    "bitmex_spot": {
+        "name": "BitMEX",
+        "market_volume_btc": 3.9167259599046766,
+        "date": "2024-03-07"
+    },
+    "hotcoin_global": {
+        "name": "Hotcoin Global",
+        "market_volume_btc": 27939.093266935448,
+        "date": "2024-03-07"
+    },
+    "uniswap_v3": {
+        "name": "Uniswap V3 (Ethereum)",
+        "market_volume_btc": 18584.572091351816,
+        "date": "2024-03-07"
+    },
+    "toobit": {
+        "name": "Toobit",
+        "market_volume_btc": 21471.855466655186,
+        "date": "2024-03-07"
+    },
+    "cointr": {
+        "name": "CoinTR Pro",
+        "market_volume_btc": 13732.104161415324,
+        "date": "2024-03-07"
+    },
+    "bitunix": {
+        "name": "Bitunix",
+        "market_volume_btc": 11752.653380790956,
+        "date": "2024-03-07"
+    },
+    "fameex": {
+        "name": "FameEX",
+        "market_volume_btc": 8975.401351548739,
+        "date": "2024-03-07"
+    },
+    "pancakeswap-v3-bsc": {
+        "name": "Pancakeswap V3 (BSC)",
+        "market_volume_btc": 8705.237426071359,
+        "date": "2024-03-07"
+    },
+    "uniswap_v3_arbitrum": {
+        "name": "Uniswap V3 (Arbitrum One)",
+        "market_volume_btc": 8421.327318303112,
+        "date": "2024-03-07"
+    },
+    "uniswap_v2": {
+        "name": "Uniswap V2 (Ethereum)",
+        "market_volume_btc": 6896.456057812348,
+        "date": "2024-03-07"
+    },
+    "qmall": {
+        "name": "QMall",
+        "market_volume_btc": 3336.4679861301715,
+        "date": "2024-03-07"
+    },
+    "uniswap_v3_polygon_pos": {
+        "name": "Uniswap V3 (Polygon)",
+        "market_volume_btc": 2925.728087268342,
+        "date": "2024-03-07"
+    },
+    "btcturk": {
+        "name": "BtcTurk | Kripto",
+        "market_volume_btc": 8931.625633939948,
+        "date": "2024-03-07"
+    },
+    "weex": {
+        "name": "WEEX",
+        "market_volume_btc": 2787.240290385977,
+        "date": "2024-03-07"
+    },
+    "paribu": {
+        "name": "Paribu",
+        "market_volume_btc": 4002.7547652747526,
+        "date": "2024-03-07"
+    },
+    "raydium-clmm": {
+        "name": "Raydium (CLMM)",
+        "market_volume_btc": 1938.5658456165115,
+        "date": "2024-03-07"
+    },
+    "quickswap_v3": {
+        "name": "Quickswap (v3)",
+        "market_volume_btc": 1634.4825263974008,
+        "date": "2024-03-07"
+    },
+    "uniswap_v3_optimism": {
+        "name": "Uniswap V3 (Optimism)",
+        "market_volume_btc": 1343.1671017004235,
+        "date": "2024-03-07"
+    },
+    "cryptology": {
+        "name": "Cryptology",
+        "market_volume_btc": 1272.8449579647356,
+        "date": "2024-03-07"
+    },
+    "pancakeswap_new": {
+        "name": "PancakeSwap (v2)",
+        "market_volume_btc": 1134.5442066750722,
+        "date": "2024-03-07"
+    },
+    "bitci": {
+        "name": "Bitci TR",
+        "market_volume_btc": 979.750389301171,
+        "date": "2024-03-07"
+    },
+    "osmosis": {
+        "name": "Osmosis",
+        "market_volume_btc": 787.976542116598,
+        "date": "2024-03-07"
+    },
+    "traderjoe-v2-1-arbitrum": {
+        "name": "Trader Joe V2.1 (Arbitrum)",
+        "market_volume_btc": 759.446444463557,
+        "date": "2024-03-07"
+    },
+    "gmo_japan": {
+        "name": "GMO Japan",
+        "market_volume_btc": 592.7847286442997,
+        "date": "2024-03-07"
+    },
+    "pulsex": {
+        "name": "PulseX",
+        "market_volume_btc": 495.6052549224611,
+        "date": "2024-03-07"
+    },
+    "canto_dex": {
+        "name": "Canto Dex",
+        "market_volume_btc": 328.8767998815447,
+        "date": "2024-03-07"
+    }
+}
