@@ -1,0 +1,684 @@
+{
+    "albedo": [
+        "xiao",
+        "faruzan",
+        "zhongli",
+        "itto",
+        "gorou"
+    ],
+    "alhaitham": [
+        "yaemiko",
+        "kukishinobu",
+        "nahida",
+        "xingqiu"
+    ],
+    "aloy": [
+        "ayaka",
+        "kokomi",
+        "venti",
+        "ganyu",
+        "mona",
+        "jean",
+        "bennett",
+        "rosaria",
+        "xiangling"
+    ],
+    "ayaka": [
+        "shenhe",
+        "kokomi",
+        "kazuha",
+        "mona",
+        "diona",
+        "venti"
+    ],
+    "ayato": [
+        "fischl",
+        "bennett",
+        "kazuha",
+        "beidou",
+        "jean",
+        "xiangling"
+    ],
+    "baizhu": [
+        "cyno",
+        "xingqiu",
+        "nahida",
+        "fischl",
+        "kazuha",
+        "alhaitham",
+        "yaemiko"
+    ],
+    "childe": [
+        "xiangling",
+        "bennett",
+        "kazuha",
+        "fischl",
+        "beidou"
+    ],
+    "chiori": [
+        "itto",
+        "gorou",
+        "bennett",
+        "navia",
+        "xiangling"
+    ],
+    "cyno": [
+        "fischl",
+        "nahida",
+        "zhongli",
+        "mona",
+        "kukishinobu"
+    ],
+    "dehya": [
+        "ganyu",
+        "bennett",
+        "nahida"
+    ],
+    "diluc": [
+        "furina",
+        "bennett",
+        "xianyun",
+        "xingqiu",
+        "sucrose"
+    ],
+    "eula": [
+        "fischl",
+        "rosaria",
+        "mika",
+        "raiden"
+    ],
+    "furina": [
+        "xiangling",
+        "xingqiu",
+        "bennett",
+        "alhaitham",
+        "kukishinobu",
+        "nahida",
+        "cyno",
+        "baizhu"
+    ],
+    "ganyu": [
+        "mona",
+        "diona",
+        "venti",
+        "xiangling",
+        "bennett",
+        "zhongli",
+        "shenhe",
+        "kazuha"
+    ],
+    "hutao": [
+        "xingqiu",
+        "yelan",
+        "zhongli",
+        "furina",
+        "xianyun",
+        "thoma",
+        "kazuha"
+    ],
+    "itto": [
+        "gorou",
+        "albedo",
+        "zhongli"
+    ],
+    "jean": [
+        "ganyu",
+        "aloy",
+        "mona",
+        "ayato",
+        "fischl",
+        "beidou"
+    ],
+    "kazuha": [
+        "childe",
+        "xiangling",
+        "bennett",
+        "ayaka",
+        "shenhe",
+        "kokomi",
+        "hutao",
+        "xingqiu",
+        "thoma"
+    ],
+    "keqing": [
+        "fischl",
+        "collei",
+        "kazuha",
+        "beidou",
+        "xingqiu",
+        "rosaria",
+        "zhongli"
+    ],
+    "klee": [
+        "xiangling",
+        "bennett",
+        "kazuha",
+        "xingqiu",
+        "yelan"
+    ],
+    "kokomi": [
+        "nilou",
+        "xingqiu",
+        "nahida",
+        "ayaka",
+        "shenhe",
+        "kazuha",
+        "fischl",
+        "yaemiko"
+    ],
+    "lyney": [
+        "xiangling",
+        "bennett",
+        "kazuha",
+        "zhongli",
+        "dehya"
+    ],
+    "mona": [
+        "ganyu",
+        "diona",
+        "venti",
+        "ayaka",
+        "xiangling",
+        "bennett",
+        "kazuha"
+    ],
+    "nahida": [
+        "nilou",
+        "xingqiu",
+        "kokomi",
+        "alhaitham",
+        "yaemiko",
+        "kukishinobu",
+        "cyno",
+        "fischl",
+        "zhongli"
+    ],
+    "navia": [
+        "xiangling",
+        "bennett",
+        "zhongli",
+        "fischl",
+        "beidou",
+        "xingqiu"
+    ],
+    "neuvillette": [
+        "fischl",
+        "zhongli",
+        "kazuha",
+        "yaemiko",
+        "beidou",
+        "venti",
+        "nahida",
+        "kukishinobu"
+    ],
+    "nilou": [
+        "xingqiu",
+        "nahida",
+        "kokomi"
+    ],
+    "qiqi": [
+        "eula",
+        "fischl",
+        "rosaria",
+        "xiao",
+        "faruzan",
+        "bennett"
+    ],
+    "raiden": [
+        "xingqiu",
+        "xiangling",
+        "bennett",
+        "sara",
+        "kazuha"
+    ],
+    "shenhe": [
+        "ayaka",
+        "kokomi",
+        "kazuha",
+        "diona",
+        "eula",
+        "fischl",
+        "mika"
+    ],
+    "tighnari": [
+        "keqing",
+        "fischl",
+        "kazuha",
+        "collei",
+        "zhongli"
+    ],
+    "traveler(anemo)": [
+        "xiao",
+        "bennett",
+        "zhongli",
+        "ayaka",
+        "shenhe",
+        "kokomi",
+        "childe",
+        "xiangling"
+    ],
+    "traveler(dendro)": [
+        "nilou",
+        "xingqiu",
+        "kokomi",
+        "alhaitham",
+        "yaemiko",
+        "kukishinobu",
+        "keqing",
+        "fischl",
+        "kazuha"
+    ],
+    "traveler(electro)": [
+        "childe",
+        "beidou",
+        "bennett",
+        "eula",
+        "rosaria",
+        "mika",
+        "yoimiya"
+    ],
+    "traveler(geo)": [
+        "xiao",
+        "faruzan",
+        "zhongli",
+        "itto",
+        "gorou"
+    ],
+    "venti": [
+        "ganyu",
+        "mona",
+        "diona",
+        "xiao",
+        "bennett",
+        "zhongli",
+        "kokomi",
+        "fischl",
+        "yaemiko"
+    ],
+    "wanderer": [
+        "faruzan",
+        "bennett",
+        "zhongli"
+    ],
+    "wriothesley": [
+        "shenhe",
+        "xiangling",
+        "bennett",
+        "yelan",
+        "xingqiu",
+        "kokomi",
+        "kazuha"
+    ],
+    "xianyun": [
+        "xiao",
+        "faruzan",
+        "furina",
+        "diluc",
+        "bennett",
+        "hutao",
+        "xingqiu"
+    ],
+    "xiao": [
+        "faruzan",
+        "furina",
+        "xianyun",
+        "bennett",
+        "zhongli",
+        "albedo"
+    ],
+    "yaemiko": [
+        "kokomi",
+        "fischl",
+        "kazuha",
+        "alhaitham",
+        "kukishinobu",
+        "nahida",
+        "raiden",
+        "bennett",
+        "venti"
+    ],
+    "yelan": [
+        "hutao",
+        "xingqiu",
+        "zhongli",
+        "alhaitham",
+        "kukishinobu",
+        "nilou",
+        "nahida",
+        "kokomi"
+    ],
+    "yoimiya": [
+        "yelan",
+        "yunjin",
+        "zhongli",
+        "xingqiu",
+        "sucrose",
+        "thoma",
+        "fischl",
+        "beidou",
+        "bennett"
+    ],
+    "zhongli": [
+        "hutao",
+        "xingqiu",
+        "yelan",
+        "xiao",
+        "faruzan",
+        "albedo",
+        "yoimiya",
+        "bennett"
+    ],
+    "barbara": [
+        "nilou",
+        "xingqiu",
+        "nahida",
+        "ayaka",
+        "shenhe",
+        "kazuha",
+        "fischl",
+        "yaemiko"
+    ],
+    "beidou": [
+        "ayato",
+        "fischl",
+        "jean",
+        "childe",
+        "bennett",
+        "keqing",
+        "xingqiu",
+        "kazuha"
+    ],
+    "bennett": [
+        "childe",
+        "xiangling",
+        "kazuha",
+        "raiden",
+        "xingqiu",
+        "xiao",
+        "faruzan",
+        "zhongli"
+    ],
+    "candace": [
+        "ayaka",
+        "shenhe",
+        "kazuha",
+        "nilou",
+        "nahida",
+        "kokomi"
+    ],
+    "charlotte": [
+        "wriothesley",
+        "xingqiu",
+        "kazuha",
+        "furina",
+        "nahida",
+        "raiden",
+        "thoma"
+    ],
+    "chevreuse": [
+        "raiden",
+        "xiangling",
+        "bennett",
+        "yoimiya",
+        "fischl",
+        "sara"
+    ],
+    "chongyun": [
+        "bennett",
+        "rosaria",
+        "sucrose",
+        "kaeya",
+        "xingqiu",
+        "kazuha"
+    ],
+    "collei": [
+        "nilou",
+        "nahida",
+        "kokomi",
+        "keqing",
+        "fischl",
+        "kazuha",
+        "tighnari",
+        "zhongli"
+    ],
+    "diona": [
+        "ganyu",
+        "mona",
+        "venti",
+        "eula",
+        "fischl",
+        "rosaria",
+        "ayaka",
+        "shenhe",
+        "kazuha"
+    ],
+    "dori": [
+        "fischl",
+        "nahida",
+        "kazuha"
+    ],
+    "faruzan": [
+        "xiao",
+        "bennett",
+        "zhongli",
+        "albedo",
+        "wanderer"
+    ],
+    "fischl": [
+        "eula",
+        "rosaria",
+        "mika",
+        "ayato",
+        "bennett",
+        "kazuha",
+        "kokomi",
+        "yaemiko"
+    ],
+    "freminet": [
+        "xingqiu",
+        "fischl",
+        "zhongli",
+        "kukishinobu",
+        "traveler(dendro)"
+    ],
+    "gaming": [
+        "xingqiu",
+        "bennett",
+        "sucrose"
+    ],
+    "gorou": [
+        "itto",
+        "albedo",
+        "zhongli"
+    ],
+    "heizou": [
+        "hutao",
+        "xingqiu",
+        "thoma",
+        "ayaka",
+        "shenhe",
+        "kokomi"
+    ],
+    "kaeya": [
+        "bennett",
+        "rosaria",
+        "xiangling",
+        "ayaka",
+        "kokomi",
+        "kazuha",
+        "xingqiu",
+        "chongyun"
+    ],
+    "kaveh": [
+        "nilou",
+        "xingqiu",
+        "baizhu",
+        "kokomi",
+        "nahida"
+    ],
+    "kirara": [
+        "keqing",
+        "fischl",
+        "kazuha",
+        "nilou",
+        "nahida",
+        "barbara",
+        "alhaitham",
+        "xingqiu"
+    ],
+    "kukishinobu": [
+        "nilou",
+        "xingqiu",
+        "nahida",
+        "alhaitham",
+        "yaemiko"
+    ],
+    "layla": [
+        "ganyu",
+        "mona",
+        "venti",
+        "ayaka",
+        "hutao",
+        "xingqiu",
+        "yelan"
+    ],
+    "lisa": [
+        "alhaitham",
+        "kukishinobu",
+        "nahida",
+        "cyno",
+        "zhongli",
+        "raiden",
+        "bennett",
+        "kazuha"
+    ],
+    "lynette": [
+        "lyney",
+        "xiangling",
+        "bennett",
+        "fischl",
+        "beidou",
+        "xingqiu"
+    ],
+    "mika": [
+        "eula",
+        "fischl",
+        "rosaria",
+        "wanderer",
+        "faruzan",
+        "bennett"
+    ],
+    "ningguang": [
+        "fischl",
+        "albedo",
+        "zhongli",
+        "bennett"
+    ],
+    "noelle": [
+        "furina",
+        "gorou",
+        "albedo",
+        "zhongli"
+    ],
+    "razor": [
+        "xingqiu",
+        "yelan",
+        "zhongli",
+        "fischl",
+        "diona",
+        "nahida"
+    ],
+    "rosaria": [
+        "ganyu",
+        "kokomi",
+        "venti",
+        "ayaka",
+        "kazuha",
+        "bennett",
+        "kaeya",
+        "xiangling"
+    ],
+    "sara": [
+        "raiden",
+        "bennett",
+        "kazuha",
+        "childe",
+        "fischl"
+    ],
+    "sayu": [
+        "xiao",
+        "fischl",
+        "zhongli",
+        "keqing",
+        "collei",
+        "xiangling",
+        "bennett",
+        "kazuha"
+    ],
+    "sucrose": [
+        "childe",
+        "xiangling",
+        "bennett",
+        "ayaka",
+        "shenhe",
+        "kokomi",
+        "hutao",
+        "xingqiu",
+        "thoma"
+    ],
+    "thoma": [
+        "hutao",
+        "xingqiu",
+        "kazuha",
+        "yoimiya",
+        "sucrose",
+        "fischl",
+        "kokomi",
+        "nahida"
+    ],
+    "xiangling": [
+        "childe",
+        "bennett",
+        "kazuha",
+        "raiden",
+        "xingqiu"
+    ],
+    "xingqiu": [
+        "nilou",
+        "nahida",
+        "kokomi",
+        "raiden",
+        "xiangling",
+        "bennett",
+        "hutao",
+        "yelan",
+        "zhongli"
+    ],
+    "xinyan": [
+        "fischl",
+        "rosaria",
+        "bennett",
+        "xiangling",
+        "kazuha"
+    ],
+    "yanfei": [
+        "xingqiu",
+        "bennett",
+        "zhongli"
+    ],
+    "yaoyao": [
+        "alhaitham",
+        "fischl",
+        "yaemiko",
+        "nilou",
+        "xingqiu",
+        "nahida"
+    ],
+    "yunjin": [
+        "yoimiya",
+        "yelan",
+        "zhongli",
+        "hutao",
+        "xingqiu"
+    ]
+}
